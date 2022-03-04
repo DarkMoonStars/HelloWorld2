@@ -8,3 +8,4 @@ git要重新设置及--gobal的name和email
 第二次同步时遇到:  
 vscode github同步ailed to connect to github.com port 443 after 21260 ms: Timed out的问题  
 尝试<https://blog.csdn.net/M_Edison/article/details/114186264>  
+取消了代理，一直在提交，最后终于艰难成功了  
